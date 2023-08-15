@@ -1,3 +1,15 @@
-# A developer who like do ***Java***
+# We are always coding because we want to code
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkctrl)](https://github.com/anuraghazra/github-readme-stats?username=lkctrl)
+<div align="center" margin="auto"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SerendipityR-2022" />
+</div>
+
+<div align="center" margin="auto"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerendipityR-2022" />
+</div>
+
+<div align="center" margin="auto"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerendipityR-2022" />
+</div>
+
+[<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cn.serendipityr.2022" /> </div>](https://visitor-badge.glitch.me/badge?page_id=cn.serendipityr.2022)
