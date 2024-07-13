@@ -1,4 +1,4 @@
-# We are always coding because we want to code
+#Coding....
 ---
 <div align="center" margin="auto"> 
   <img src="https://github-readme-stats.vercel.app/api?username=SerendipityR-2022" />
