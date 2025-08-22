@@ -1,13 +1,16 @@
-#A lazy man are coding....
----
-<div align="center" margin="auto"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lkctrl" />
-</div>
+# Welcome to My GitHub 🚀
 
-<div align="center" margin="auto"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkctrl" />
-</div>
+> A lazy man are coding....
 
-<div align="center" margin="auto"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkctrl" />
-</div>
+Aspiring full-stack engineer and solo developer, somemtimes creating small games using Godot. Night owl by nature, I find the quiet hours most productive for coding. Self-taught and still learning, my coding skills not be perfect, so I welcome any guidance or advice you can offer.
+
+### GitHub Stats
+
+<a href="https://github.com/lkctrl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkctrl&show_icons=true" />
+</a>
+<a href="https://github.com/lkctrl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkctrl&langs_count=8" />
+</a>
+
+Feel free to explore my repositories and let's connect if you share similar interests or have any questions!
