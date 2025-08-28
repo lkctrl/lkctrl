@@ -2,7 +2,7 @@
 
 > A lazy man are coding....
 
-Aspiring full-stack engineer and solo developer, somemtimes creating small games using Godot. Night owl by nature, I find the quiet hours most productive for coding. Self-taught and still learning, my coding skills not be perfect, so I welcome any guidance or advice you can offer.
+Aspiring full-stack engineer and solo developer.
 
 ### GitHub Stats
 
